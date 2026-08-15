@@ -24,7 +24,7 @@
 
 <p>🎓 Third-year Computer Science student at **National Polytechnic Institute of Cambodia (NPIC)**</p>
 <p>💻 Software and web developer specializing in building scalable web applications and management systems</p>
-<p>🌱 Currently focusing on **Laravel, React, Vue, PHP, JavaScript**</p>
+<p>🌱 Currently focusing on <strong>JavaScript, React, Laravel, and Tailwind CSS</strong></p>
 <p>💡 Interested in **Full Stack Web Development**</p>
 <p>🤝 Always open to collaboration and new internship opportunities</p>
 <p>📚 Constantly improving my programming and problem-solving skills</p>
