@@ -10,7 +10,7 @@
 ### 🎓 Third-Year Computer Science Student
 **National Polytechnic Institute of Cambodia (NPIC)**
 
-💻 Passionate about **Software Engineering**, **Web Development**, and building real-world applications.
+💻 Passionate about  **Web Development**,**Software Engineering**, and building real-world applications.
 
 </div>
 
@@ -24,9 +24,8 @@
 
 <p>🎓 Third-year Computer Science student at **National Polytechnic Institute of Cambodia (NPIC)**</p>
 <p>💻 Software and web developer specializing in building scalable web applications and management systems</p>
-<p>🌱 Currently focusing on **Laravel, React, PHP, JavaScript, and Kotlin**</p>
+<p>🌱 Currently focusing on **Laravel, React, Vue, PHP, JavaScript**</p>
 <p>💡 Interested in **Full Stack Web Development**</p>
-<p>🚀 Enjoy building practical projects like Hotel Management Systems and learning modern technologies</p>
 <p>🤝 Always open to collaboration and new internship opportunities</p>
 <p>📚 Constantly improving my programming and problem-solving skills</p>
 
@@ -40,7 +39,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45"/>
 </p>
 
@@ -90,10 +88,7 @@
 
 ## 🎯 Goals
 
-<p>🚀 Become a Full Stack Web Developer</p>
+<p>🚀 Become a Web Developer</p>
 <p>🌍 Build and Deploy Production-Ready Applications</p>
 <p>📚 Keep learning modern web technologies</p>
 
-</div>
-
-</div>
