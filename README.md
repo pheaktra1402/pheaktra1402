@@ -10,7 +10,7 @@
 ### 🎓 Third-Year Computer Science Student
 **National Polytechnic Institute of Cambodia (NPIC)**
 
-💻 Passionate about  **Web Development**,**Software Engineering**, and building real-world applications.
+💻 Passionate about  **Web Development**, and building real-world applications.
 
 </div>
 
