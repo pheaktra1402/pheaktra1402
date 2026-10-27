@@ -7,8 +7,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Passionate+Web+Developer;Always+Learning+New+Technologies;Welcome+to+My+GitHub!" alt="Typing SVG" />
 </a>
 
-### 🎓 Third-Year Computer Science Student
-**National Polytechnic Institute of Cambodia (NPIC)**
+### 🎓 I have just completed my third-year of Computer Science at the National Polytechnic Institute of Cambodia.
+
 
 💻 Passionate about  **Web Development**, and building real-world applications.
 
